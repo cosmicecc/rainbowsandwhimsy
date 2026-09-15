@@ -1,0 +1,37 @@
+body {
+    padding: 1rem; 
+} 
+header {
+    border-bottom: 1px solid
+}
+nav { 
+    display: flex; 
+} 
+nav h1 {
+    margin-top: 0; 
+} 
+nav ul { 
+    list-style: none; 
+    display: flex; 
+    gap: 1rem; 
+    margin-left: auto; 
+} 
+nav a { 
+    text-decoration: none; 
+}
+
+
+/* Form Styles */
+button {
+    color: rgb(255, 255, 255);
+    background-color: rgb(22, 119, 190);
+    border-radius: 4px;
+    font-weight: 400;
+}
+.formkit-form[data-uid="3ae76daf70"][min-width~="700"] [data-style="clean"]{ 
+    padding: 30px 0 0 0;
+}
+.formkit-form[data-uid="3ae76daf70"] *{box-sizing:border-box;}.formkit-form[data-uid="3ae76daf70"]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}.formkit-form[data-uid="3ae76daf70"] legend{border:none;font-size:inherit;margin-bottom:10px;padding:0;position:relative;display:table;}.formkit-form[data-uid="3ae76daf70"] fieldset{border:0;padding:0.01em 0 0 0;margin:0;min-width:0;}.formkit-form[data-uid="3ae76daf70"] body:not(:-moz-handler-blocked) fieldset{display:table-cell;}
+.formkit-form[data-uid="3ae76daf70"] .seva-fields { 
+    display: flex;
+}
